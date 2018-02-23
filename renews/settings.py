@@ -25,7 +25,7 @@ SECRET_KEY = 'yabbiz4i7b3_%()12m8mio-^b!9l=!u!@7&t53c5#6ov3^s__q'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [www.dailyreit.com]
+ALLOWED_HOSTS = ['www.dailyreit.com']
 
 
 # Application definition
